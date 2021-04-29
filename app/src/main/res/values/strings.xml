@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter4_2</string>
+    <string name="next_text">次へ</string>
+    <string name="high_text">HIGH</string>
+    <string name="low_text">LOW</string>
+    <string name="hit_text">あたり</string>
+    <string name="lose_text">はずれ</string>
+</resources>
